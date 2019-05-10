@@ -14,7 +14,7 @@ print(type(list2[2]))
 print(list1[0])
 print(list1[0:2])
 print(list1[2:3])
-
+  
 list1[2] = 100
 print(list1)
 
