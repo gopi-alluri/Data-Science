@@ -15,7 +15,7 @@ import os   # import os package
 # Read train data file
 titanic_train = pd.read_csv("D:\\Data Science\\Kaggle\\Titanic Machine Learning from Disaster\\Data Sources\\train.csv")
 
-# Print data type
+# Print data type 
 print(type(titanic_train))
 
 # Print number of rows and columns in the data frame
