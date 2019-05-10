@@ -9,7 +9,7 @@ print(type(list2))
 print(type(list2[0]))
 print(type(list2[1]))
 print(type(list2[2]))
-
+  
 #access list elements by slicing
 print(list1[0])
 print(list1[0:2])
