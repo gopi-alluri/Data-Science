@@ -20,7 +20,7 @@ print(list1)
 
 list1.append(1) 
 print(list1)
-
+  
 #extend expects a value/collection of values
 list1.extend([10, 20])
 print(list1)
