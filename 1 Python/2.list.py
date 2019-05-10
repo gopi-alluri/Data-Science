@@ -3,7 +3,7 @@
 #For lists use [] brackets
 list1 = [10,20,30]
 print(type(list1))
-
+  
 list2=['abc', 10, True]
 print(type(list2))
 print(type(list2[0]))
