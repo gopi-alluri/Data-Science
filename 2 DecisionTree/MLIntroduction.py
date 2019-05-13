@@ -44,7 +44,7 @@ print(type(dt))
 # Read test data file
 titanic_test = pd.read_csv("D:\\Data Science\\Kaggle\\Titanic Machine Learning from Disaster\\Data Sources\\test.csv")
 
-# set imput columns X-axsis and out put column y-axsis
+# set imput columns X-axsis
 x_titanic_test = titanic_test[['Pclass','SibSp','Parch']]
 
 # Predict and write out put on test data based on the model
