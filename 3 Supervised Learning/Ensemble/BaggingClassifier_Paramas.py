@@ -8,7 +8,7 @@ Created on Sat May 25 16:26:42 2019
 #Bagging - Bagged model
 import pandas as pd
 import os
-from sklearn import preprocessing, impute, tree, model_selection, ensemble
+from sklearn import impute, tree, model_selection, ensemble
 
 #changes working directory
 os.chdir("D:\\Data Science\\Kaggle\\Titanic Machine Learning from Disaster\\Data Sources")
